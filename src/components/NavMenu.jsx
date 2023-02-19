@@ -51,21 +51,21 @@ const NavMenu = forwardRef((porps, refs) => {
         <div className="pt-3 pb-8">
           <div className="px-5 space-y-1 text-sm text-gray-300">
             <a
-              href="#"
+              href="#about"
               className="block px-3 py-2 rounded-md text-base font-medium border-b border-zinc-800"
             >
               About
             </a>
 
             <a
-              href="#"
+              href="#projects"
               className="block px-3 py-2 rounded-md text-base font-medium border-b border-zinc-800"
             >
               Projects
             </a>
 
             <a
-              href="#"
+              href="#contact"
               className="block px-3 py-2 rounded-md text-base font-medium "
             >
               Contact
