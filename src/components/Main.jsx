@@ -19,9 +19,16 @@ const Main = () => {
           <p className="mt-5">
             <i>
               Growing up, I always had an affinity for everything tech related.
-              Installing custom ROMS on my Android phone (and nearly bricking it)
+              Installing custom ROMS on my Android phone (and nearly bricking it), or 
+              that time when I tried to know how games are made and tried to learn Unity were some
+              of the things that developed my problem solving skills. 
             </i>
 
+          </p>
+
+          <p className="mt-5">
+            Today I'm enthralled by web development. Creating new experiences, implementing eye
+            pleasing designs and making them come to life with animations.
           </p>
         </h4>
         <div className="flex gap-5 mt-8 text-xl text-gray-400">
